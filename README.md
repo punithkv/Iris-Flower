@@ -71,6 +71,6 @@ Streamlit for the web framework.
 
 
 
-
-https://punithkv-iris-flower.streamlit.app
+to run the app click this link
+http://localhost:8501/
 
