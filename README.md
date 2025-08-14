@@ -20,9 +20,7 @@ This project predicts the **species of an Iris flower** based on its **sepal** a
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -34,20 +32,10 @@ git clone https://github.com/your-username/iris-flower-prediction.git
 cd iris-flower-prediction
 2️⃣ Install dependencies
 Make sure you have Python 3.8+ installed.
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Train the model (only if iris_model.pkl is missing)
-bash
-Copy
-Edit
 python train_model.py
 4️⃣ Run the Streamlit app
-bash
-Copy
-Edit
 streamlit run app.py
 📊 Example Prediction
 Input:
@@ -80,3 +68,9 @@ This project is licensed under the MIT License.
 UCI Machine Learning Repository for the Iris dataset.
 
 Streamlit for the web framework.
+
+
+
+
+https://punithkv-iris-flower.streamlit.app
+
